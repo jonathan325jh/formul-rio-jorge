@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(92, 92, 92);
+    color: white;
+}
+
+
 .principal{
 
 margin-left: 40%;
@@ -5,6 +11,21 @@ margin-left: 40%;
 }
 
 h1{
-
+     font-size: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+label{
+  font-size: 25px;
+}
+
+input{
+    font-size: 20px;
+    color: black;
+     
+}
+
+.enviar{
+    width: 35%;
+    
 }
